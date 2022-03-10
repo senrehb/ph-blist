@@ -1,0 +1,34 @@
+# ooooooooooooooooooooooooooooooooooooooooooooooooo
+# ooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoo
+# oox  Projekt: pihole blocklists               xoo
+# oox          List for pihole-blocking         xoo
+# oox                                           xoo
+# oox  Datei: blocklist-kids.txt                xoo
+# oox        Blocklist for Kids                 xoo
+# oox                                           xoo
+# oox  2022 -> open                             xoo
+# ooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoo
+# ooooooooooooooooooooooooooooooooooooooooooooooooo
+#
+# lastchange list: 20220310
+# comment: nothing spezial
+# =================================================
+# 
+# Begin: Linklist
+
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
+#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
+# End
+# -------
+# End of file
