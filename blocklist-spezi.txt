@@ -26,11 +26,13 @@ fbcdn.net
 instagram.com
 tfbnw.net
 facebookbrand.com
-
-# End
-#
-# Begin:
+# ----- for devices ------
 fritz.box
+checkip.synology.com
+checkipv6.synology.com
+myds.synology.com
+payment.synology.com
+sns.synology.com
 # End
 # -------
 # End of file
