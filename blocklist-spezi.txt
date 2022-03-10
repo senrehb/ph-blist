@@ -14,9 +14,12 @@
 # comment: nothing spezial
 # =================================================
 #
-# Begin: 
+# Begin: custom collection
+#
+fritz.box
 #
 tiktokcdn.com
+# ----- meta-konzern -----
 facebook.com
 messenger.com
 fb.me
@@ -26,13 +29,145 @@ fbcdn.net
 instagram.com
 tfbnw.net
 facebookbrand.com
-# ----- for devices ------
-fritz.box
+# End
+#
+#Begin: Synology  from RPiList
+#      https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/Synology.txt
+#
 checkip.synology.com
 checkipv6.synology.com
 myds.synology.com
 payment.synology.com
 sns.synology.com
+# End
+#
+# Begin: Samsung  from RPiList
+#       Quelle: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+#
+abtauthprd.samsungcloudsolution.com
+acr0.samsungcloudsolution.com
+ad.samsungadhub.com
+ads.samsungads.com
+amauthprd.samsungcloudsolution.com
+api-hub.samsungyosemite.com
+apu.samsungelectronics.com
+az43064.vo.msecnd.net
+bpu.samsungelectronics.com
+cdn.samsungcloudsolution.net
+configprd.samsungcloudsolution.net
+connecttv.pelmorex.com
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
+cpu.samsungelectronics.com
+device-metrics-us.amazon.com
+dev-multiscreen.samsung.com
+dpu.samsungelectronics.com
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
+game.internetat.tv
+gld.samsungosp.com
+gpm.samsungqbe.com
+i-stream.pl
+kpu.samsungelectronics.com
+lcprd1.samsungcloudsolution.net
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log-ingestion.samsungacr.com
+log.internetat.tv
+multiscreen.samsung.com
+musicid.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
+noticefile.samsungcloudsolution.com
+notice.samsungcloudsolution.com
+ns11.whois.co.kr
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
+openapi.samsung.com
+osb-apps.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb-krsvc.samsungqbe.com
+osb.samsungqbe.com
+osb-ussvc.samsungqbe.com
+otnprd11.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
+otn.samsungcloudcdn.com
+pavv.co.kr
+pipeaota.com
+premium-videos.telly.com
+prov.samsungcloudsolution.com
+rd.samsungadhub.com
+rwww.samsungotn.net
+samsungacr.com
+samsungadhub.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungelectronics.com
+samsungqbe.com
+samsungrm.net
+sas.samsungcloudsolution.com
+sca.samsung.com
+sso.internetat.tv
+syncplusconfig.s3.amazonaws.com
+targeted-config-test.samsungacr.com
+test.samsungrm.net
+upu.samsungelectronics.com
+us-api.samsungyosemite.com
+vd.contents.prod.eu.s3.amazonaws.com
+vd.emp.prd.s3.amazonaws.com
+vdterms.samsungcloudsolution.com
+www.i-stream.pl
+www.pipeaota.com
+www.samsungacr.com
+www.samsungadhub.com
+www.samsungcloudsolution.com
+www.samsungcloudsolution.net
+www.samsungelectronics.com
+www.samsungqbe.com
+www.samsungrm.net
+xpu.samsungelectronics.com
+ypu.samsungelectronics.com
+zpu.samsungelectronics.com
+
+# End
+#
+# Begin: Amazon  from RpiList
+#
+amazon-presse.de
+advertising.amazon.de
+api.amazonalexa.com
+api.eu.amazonalexa.com
+ags-ext.amazon.com
+arcus-uswest.amazon.com
+assoc-eu.associates-amazon.com
+avs-alexa-18-eu.amazon.com
+cdws.eu-west-1.amazonaws.com
+cognito-identity.us-east-1.amazonaws.com
+completion.amazon.com
+completion.amazon.co.uk
+cortana-gateway.amazon.com
+cz15y20kg2.execute-api.us-east-1.amazonaws.com
+dcape-na.amazon.com
+device-messaging-na.amazon.com
+device-metrics-us.amazon.com
+digprjsurvey.amazon.eu
+dp-discovery-na-ext.amazon.com
+dp-gw-na.amazon.com
+dp-rsm-prod.amazon.com
+eu.api.amazonvideo.com
+firereleasenotes-eu.amazon.com
+ftvr-na.amazon.com
+kraken-measurements.s3-external-1.amazonaws.com
+mas-ext-eu.amazon.com
+messaging-director-us-east-1.amazon.com
+msh.amazon.co.uk
+msh.amazon.com
+prod.amazoncrl.com
+tap-client-stats.s3-eu-west-1.amazonaws.com
+todo-ta-g7g.amazon.com
+unagi-eu.amazon.com
+vaes.amazon-adsystem.com
+
 # End
 # -------
 # End of file
