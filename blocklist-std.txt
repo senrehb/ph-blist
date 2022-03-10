@@ -1,44 +1,28 @@
-#--------------
-# Projekt: pihole List
-#--------------
+# ooooooooooooooooooooooooooooooooooooooooooooooooo
+# ooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoo
+# oox  Projekt: pihole blocklists               xoo
+# oox          List for pihole-blocking         xoo
+# oox                                           xoo
+# oox  Datei: blocklist-std.txt                 xoo
+# oox        Blocklist for Standard use.        xoo
+# oox                                           xoo
+# oox  2022 -> open                             xoo
+# ooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoo
+# ooooooooooooooooooooooooooooooooooooooooooooooooo
 #
-# lastchange list:20220310
-#
-# ===============================================================
-
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
+# lastchange list: 20220310
+# comment: nothing spezial
+# =================================================
+# 
 # Begin - custom collection of hosts
-
-samsungqbe.com
+#
 tiktokcdn.com
-facebook.com
-messenger.com
-fb.me
-oculusvr.com
-fbsbx.com
-fbcdn.net
-instagram.com
-tfbnw.net
-facebookbrand.com
 
-
+#
 # End - custom host records
 #
-# Offizielle Liste des BSI gem. https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente_1_2.pdf?__blob=publicationFile&v=6
+# Begin: Offizielle Liste des BSI gem.
+#        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente_1_2.pdf?__blob=publicationFile&v=6
 #
 alpha.telemetry.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
@@ -62,9 +46,11 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-#
+
+# End
 # 
-# Quelle: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+# Begin: from RPiList
+#       Quelle: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 #
 abtauthprd.samsungcloudsolution.com
 acr0.samsungcloudsolution.com
@@ -150,13 +136,7 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
-#
-#
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
 
-# 0.0.0.0 example.com
+# End
+# -------
+# End of file
