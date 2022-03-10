@@ -1,0 +1,36 @@
+# ooooooooooooooooooooooooooooooooooooooooooooooooo
+# ooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoo
+# oox  Projekt: pihole blocklists               xoo
+# oox          List for pihole-blocking         xoo
+# oox                                           xoo
+# oox  Datei: blocklist-spezi.txt               xoo
+# oox        Blocklist for spezial use.(test)   xoo
+# oox                                           xoo
+# oox  2022 -> open                             xoo
+# ooxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxoo
+# ooooooooooooooooooooooooooooooooooooooooooooooooo
+#
+# lastchange list: 20220310
+# comment: nothing spezial
+# =================================================
+#
+# Begin: 
+#
+tiktokcdn.com
+facebook.com
+messenger.com
+fb.me
+oculusvr.com
+fbsbx.com
+fbcdn.net
+instagram.com
+tfbnw.net
+facebookbrand.com
+
+# End
+#
+# Begin:
+fritz.box
+# End
+# -------
+# End of file
