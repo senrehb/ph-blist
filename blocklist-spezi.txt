@@ -16,7 +16,6 @@
 #
 # Begin: custom collection
 #
-fritz.box
 #
 tiktokcdn.com
 # ----- meta-konzern -----
