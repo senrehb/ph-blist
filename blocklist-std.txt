@@ -14,14 +14,12 @@
 # comment: nothing spezial
 # =================================================
 # 
-# Begin - custom collection of hosts
+# Begin - custom collection
 #
-tiktokcdn.com
-
 #
 # End - custom host records
 #
-# Begin: Offizielle Liste des BSI gem.
+# ---------------Begin: Offizielle Liste des BSI gem.
 #        https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Analyse_Telemetriekomponente_1_2.pdf?__blob=publicationFile&v=6
 #
 alpha.telemetry.microsoft.com
@@ -46,10 +44,9 @@ weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-
 # End
 # 
-# Begin: from RPiList
+# -----------Begin: from RPiList
 #       Quelle: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 #
 abtauthprd.samsungcloudsolution.com
@@ -136,7 +133,6 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
-
 # End
 # -------
 # End of file
